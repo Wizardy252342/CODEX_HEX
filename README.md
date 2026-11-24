@@ -40,7 +40,7 @@ The 6 rotated coordinates $(x_1, x_2, x_3, x_4, x_5, x_6)$ of the final `sha612x
 
 *   `CODEX_ARCHIVE_2039.json` — The complete ciphertext corpus across all 9 chapters (Chapters 1–8 in UTF-8 HEX; Chapter 9 in raw binary).
 *   `kryptos_visual_spectrogram.wav` — Master 6D vector audio synthesis and visual spectrogram beacon.
-*   `CODEX_2039_Whitepaper.pdf` — Technical specification and ecosystem integration overview.
+*   `CODEX_HEX_ A Multi-Dimensional Cryptographic & Linguistic ARG Architecture.pdf` — Technical specification and ecosystem integration overview.
 
 *(Note: The core encryption engine `cipher_engine.py`, master seed, and the `CODEX_4000_NODES.csv` geolocation registry remain air-gapped during the initial launch phase.)*
 
